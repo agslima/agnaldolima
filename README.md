@@ -30,7 +30,7 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
 <br />
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=great-gatsby" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=great-gatsby" />
   <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />-->
 </div>
 
