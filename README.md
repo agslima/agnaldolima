@@ -44,17 +44,14 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go"></code>
-
   <!-- Cloud & DevOps -->
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible"></code>
-
   <!-- Cloud Platforms -->
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"></code>
-
   <!-- Tools -->
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode"></code>
