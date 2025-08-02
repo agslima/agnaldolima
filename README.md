@@ -31,7 +31,7 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
 
 ---
 
-<h2 align="center">🧰 Tecnologias e Ferramentas</h2>
+<h2 align="center">🧰 Technologies and Tools</h2>
 
 <p align="center">
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"></code>
@@ -45,6 +45,15 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"></code>
 </p>
+
+<div align=center>
+  <img src="https://github.com/lcaioporto/lcaioporto/assets/115668120/2392b5c4-199c-449c-b045-c3c82474cf59" height=50>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height=50>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height=50>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50>
+  <img src="https://github.com/lcaioporto/lcaioporto/assets/115668120/29d21347-dc7a-40a3-90c9-23077edfa539" height=50>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height=50>
+</div>
 
 ---
 
