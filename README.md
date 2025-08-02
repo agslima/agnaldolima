@@ -5,7 +5,7 @@
 </p>
 -->
 
-<h2 align="center">👋 Hi there, I'm <strong>Agnaldo Lima</strong></h2>
+<h2 align="center">👋 Hi there, I'm <strong>Agnaldo</strong></h2>
 <!--
 <p align="center">
 Sou Agnaldo Lima 👨‍💻, profissional de TI apaixonado por Linux, Open Source, Programação e soluções em Cloud Computing.    
