@@ -38,7 +38,7 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
 </div>
 
 
-<h2 align="center">🧰 Technologies and Tools</h2>
+<h2 align="center">🧰 Technologies</h2>
 
 <p align="center">
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"></code>
