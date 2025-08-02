@@ -39,13 +39,15 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
 
 <p align="center">
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"></code>
-  <code><img height="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"> </code>
+  <code><img height="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" title="Java"></code>
+  <code><img height="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/goland/goland-original.svg" title="Go"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"   title="HTML5"></code>  
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" titles="Visual Studio"> </code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash Script"></code>  
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"></code>  
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"></code>
+  <code><img height="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform"></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible"></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"></code>
