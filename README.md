@@ -4,7 +4,6 @@
   <img src="/img/capa.webp" alt="Logo Agnaldo" width="800" />
 </p>
 -->
-![Logo](/img/capa.webp)
 
 ---
 
