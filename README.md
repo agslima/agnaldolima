@@ -16,8 +16,9 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
 ---
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=dracula" />
+  -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=great-gatsby">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=great-gatsby">
 </div>
@@ -26,7 +27,8 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=great-gatsby" />
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />-->
 </div>
 
 ---
