@@ -48,16 +48,10 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/agnaldo-silva-lima/" target="blank">
+  <a href="https://www.linkedin.com/in/agslima/" target="blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Agnaldo%20Lima-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:agnaldo.ti@gmail.com">
+  <a href="mailto:a.agnaldosilva@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email%20Me-d14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
