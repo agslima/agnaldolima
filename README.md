@@ -55,6 +55,7 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"></code>
 </p>
 
+<!-->
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
@@ -65,3 +66,4 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
     <img alt="Email" src="https://img.shields.io/badge/-Email%20Me-d14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
+-->
