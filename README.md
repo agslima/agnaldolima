@@ -5,6 +5,7 @@
 
 ---
 
+<!--
 <h2 align="center">Olá, <𝚍𝚎𝚟𝚜/>!</h2>
 
 <p align="center">
@@ -12,6 +13,8 @@ Sou Agnaldo Lima 👨‍💻, profissional de TI apaixonado por Linux, Open Sour
 Tenho experiência com suporte técnico, administração de servidores, monitoramento, segurança e práticas DevOps/SRE.  
 Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de Plataforma.
 </p>
+
+-->
 
 ---
 
