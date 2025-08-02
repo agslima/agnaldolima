@@ -19,7 +19,7 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
 </p>
 
 <!--<h2 align="center">&lt;Hello, World!/&gt;</h2>-->
-<div>
+<div align="center">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=dracula" />
   -->
@@ -29,7 +29,7 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
 
 <br />
 
-<div>
+<div align="center">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=great-gatsby" />
   <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />-->
 </div>
