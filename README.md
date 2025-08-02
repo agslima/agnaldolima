@@ -8,7 +8,7 @@
 
 
 
-<h2 align="center">Hello, <World!/> </h2>
+<h2 align="center">&lt;Hello, World!/&gt; </h2>
 
 <!--
 <p align="center">
@@ -19,7 +19,7 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
 </p>
 -->
 <p>
-I'm Agnaldo Lima 👨‍💻, a Computer Science student at Unicamp. I'm interested in Open Source,DevOps, Cloud Computing, and Platform Engineering.
+I'm Agnaldo Lima 👨‍💻, a Computer Science student at Unicamp. I'm interested in Open Source, DevOps, Cloud Computing, and Platform Engineering.
 I have experience in Programming, DevOps/SRE, and Technical Support.
 </p>
 
