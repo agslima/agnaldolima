@@ -18,7 +18,7 @@ Software Developer and Computer Science student at Unicamp. Passionate about Ope
 I have experience in Programming, DevOps/SRE, and Technical Support.
 </p>
 
-<h2 align="center"><code>&lt;Hello, World!/&gt;</code></h2>
+<h2 align="center"><&lt;Hello, World!/&gt;</h2>
 <div align="center">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=dracula" />
