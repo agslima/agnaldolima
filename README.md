@@ -15,15 +15,15 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
 
 ---
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agnaldolima&show_icons=true&theme=dracula" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldolima&layout=compact&theme=dracula" />
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=dracula" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agnaldolima&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />
 </div>
 
 ---
