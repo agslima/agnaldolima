@@ -5,7 +5,7 @@
 </p>
 -->
 
----
+
 
 <!--
 <h2 align="center">Olá, <𝚍𝚎𝚟𝚜/>!</h2>
@@ -16,9 +16,9 @@ Tenho experiência com suporte técnico, administração de servidores, monitora
 Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de Plataforma.
 </p>
 
+---
 -->
 
----
 
 <div align="center">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
@@ -37,7 +37,6 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
   -->
 </div>
 
----
 
 <h2 align="center">🧰 Technologies and Tools</h2>
 
@@ -56,8 +55,6 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"></code>
 </p>
-
----
 
 <h2 align="center">📫 Contato</h2>
 
