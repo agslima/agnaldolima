@@ -1,1 +1,64 @@
-# agnaldolima
+<!-- Logo -->
+<p align="center">
+  <img src="/img/capa.webp" alt="Logo Agnaldo" width="800" />
+</p>
+
+---
+
+<h2 align="center">Olá, <𝚍𝚎𝚟𝚜/>!</h2>
+
+<p align="center">
+Sou Agnaldo Lima 👨‍💻, profissional de TI apaixonado por Linux, Open Source, automação e soluções em Cloud Computing.  
+Tenho experiência com suporte técnico, administração de servidores, monitoramento, segurança e práticas DevOps/SRE.  
+Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de Plataforma.
+</p>
+
+---
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agnaldolima&show_icons=true&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldolima&layout=compact&theme=dracula" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agnaldolima&theme=dracula" />
+</div>
+
+---
+
+<h2 align="center">🧰 Tecnologias e Ferramentas</h2>
+
+<p align="center">
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash Script"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible"></code>
+  <code><img height="40" src="https://www.zabbix.com/sites/default/files/styles/large/public/2023-03/zabbix_logo_500x131.png" title="Zabbix"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"></code>
+</p>
+
+---
+
+<h2 align="center">📫 Contato</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/agnaldo-silva-lima/" target="blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Agnaldo%20Lima-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:agnaldo.ti@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email%20Me-d14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
