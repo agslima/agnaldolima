@@ -37,7 +37,7 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
 </div>
 
 
-<<h2 align="center">🧰 Technologies & Tools</h2>
+<h2 align="center">🧰 Technologies & Tools</h2>
 
 <p align="center">
   <!-- Programming Languages -->
