@@ -7,17 +7,23 @@
 
 
 
-<!--
-<h2 align="center">Olá, <𝚍𝚎𝚟𝚜/>!</h2>
 
-<p align="center">
-Sou Agnaldo Lima 👨‍💻, profissional de TI apaixonado por Linux, Open Source, automação e soluções em Cloud Computing.  
-Tenho experiência com suporte técnico, administração de servidores, monitoramento, segurança e práticas DevOps/SRE.  
+<h2 align="center"><Hello, World! />!</h2>
+
+<!-->
+Sou Agnaldo Lima 👨‍💻, profissional de TI apaixonado por Linux, Open Source, Programação e soluções em Cloud Computing.  
+  
 Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de Plataforma.
+
+</p>-->
+<p align="center">
+I'm Agnaldo Lima 👨‍💻, a Computer Science student at Unicamp. I'm interested in Open Source,DevOps, and Cloud Computing.
+I have experience in Programming, DevOps/SRE, and Technical Support.
+I'm currently transitioning to Cloud, DevSecOps, and Platform Engineering.
 </p>
 
----
--->
+
+
 
 
 <div align="center">
