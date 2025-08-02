@@ -39,7 +39,6 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible"></code>
-  <code><img height="40" src="https://www.zabbix.com/sites/default/files/styles/large/public/2023-03/zabbix_logo_500x131.png" title="Zabbix"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"></code>
 </p>
