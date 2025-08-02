@@ -5,34 +5,26 @@
 </p>
 -->
 
-
-
-
-<h2 align="center">&lt;Hello, World!/&gt; </h2>
-
+<h2 align="center">👋 Hi there, I'm <strong>Agnaldo Lima</strong></h2>
 <!--
 <p align="center">
-Sou Agnaldo Lima 👨‍💻, profissional de TI apaixonado por Linux, Open Source, Programação e soluções em Cloud Computing.  
-  
+Sou Agnaldo Lima 👨‍💻, profissional de TI apaixonado por Linux, Open Source, Programação e soluções em Cloud Computing.    
 Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de Plataforma.
-
 </p>
 -->
+
 <p>
-I'm Agnaldo Lima 👨‍💻, a Computer Science student at Unicamp. I'm interested in Open Source, DevOps, Cloud Computing, and Platform Engineering.
+Software Developer and Computer Science student at Unicamp. Passionate about Open Source, Cloud Computing, DevOps and Platform Engineering.
 I have experience in Programming, DevOps/SRE, and Technical Support.
 </p>
 
-
-
-
-
+<h2 align="center"><code>&lt;Hello, World!/&gt;</code></h2>
 <div align="center">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=dracula" />
   -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=great-gatsby">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=great-gatsby">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=great-gatsby" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=great-gatsby" />
 </div>
 
 <br />
@@ -45,32 +37,37 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
 </div>
 
 
-<h2 align="center">🧰 Technologies</h2>
+<<h2 align="center">🧰 Technologies & Tools</h2>
 
 <p align="center">
+  <!-- Programming Languages -->
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"></code>
-  <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" title="Java"></code>
-  <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/goland/goland-original.svg" title="Go"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"   title="HTML5"></code>  
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" titles="Visual Studio"> </code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go"></code>
+
+  <!-- Cloud & DevOps -->
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"></code>
-  <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible"></code>
+
+  <!-- Cloud Platforms -->
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"></code>
+
+  <!-- Tools -->
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode"></code>
 </p>
 
-<!--
-<h2 align="center">📫 Contato</h2>
+<h2 align="center">📫 Contact</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/agslima/" target="blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Agnaldo%20Lima-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/agslima/" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Agnaldo%20Lima-0e76a8?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
   <a href="mailto:a.agnaldosilva@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email%20Me-d14836?style=flat-square&logo=Gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
--->
+
