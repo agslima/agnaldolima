@@ -19,8 +19,8 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=dracula" />
   -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=great-gatsby">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=great-gatsby">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=great-gatsby">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=great-gatsby">
 </div>
 </div>
 
@@ -39,7 +39,7 @@ Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de
 
 <p align="center">
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></code>
+  <code><img height="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg"></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"> </code>
