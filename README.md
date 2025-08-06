@@ -29,10 +29,10 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
 
 <br />
 
-<div align="center">
+<!--<div align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=great-gatsby" />
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />-->
-</div>
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />
+</div>-->
 
 
 <h2 align="center">🧰 Technologies & Tools</h2>
