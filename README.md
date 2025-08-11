@@ -1,6 +1,6 @@
 <!-- Logo -->
 
-<--<p align="center">
+<!--<p align="center">
   <img src="/img/capa.webp" alt="Logo Agnaldo" width="800" />
 </p>-->
 
