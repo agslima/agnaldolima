@@ -1,8 +1,8 @@
 <!-- Logo -->
 
-<p align="center">
+<!--<p align="center">
   <img src="/img/capa.webp" alt="Logo Agnaldo" width="800" />
-</p>
+</p>-->
 
 
 <h2 align="center">👋 Hi there, I'm <strong>Agnaldo</strong></h2>
